@@ -1,0 +1,1 @@
+Android platform placeholder. Run 'npx cap add android' locally to generate full project.

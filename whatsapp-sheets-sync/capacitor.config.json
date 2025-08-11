@@ -1,0 +1,6 @@
+{
+  "appId": "com.whatsapp.sheets",
+  "appName": "WhatsApp Sheets Sync",
+  "webDir": "out",
+  "bundledWebRuntime": false
+}
